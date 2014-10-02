@@ -1,0 +1,8 @@
+   LargeAddressAwareChecker
+   Copyright 2013 Oleg Chirukhin
+
+   This software contains code derived from this StackOverflow article:
+   http://stackoverflow.com/questions/9054469/how-to-check-if-exe-is-set-as-largeaddressaware
+
+
+
