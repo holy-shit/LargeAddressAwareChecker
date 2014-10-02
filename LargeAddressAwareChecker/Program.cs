@@ -11,6 +11,8 @@ namespace LargeAddressAwareChecker
     {
         const int IMAGE_FILE_LARGE_ADDRESS_AWARE = 0x20;
 
+
+        //This article help a lot: http://stackoverflow.com/questions/9054469/how-to-check-if-exe-is-set-as-largeaddressaware
         static bool LargeAware(Stream stream)
         {
 
